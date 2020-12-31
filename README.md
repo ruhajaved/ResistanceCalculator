@@ -27,6 +27,8 @@ In order to run this program through the MacOS terminal, run the following comma
 1. csc Program.cs
 2. mono Program.exe
 
+To launch from other operating systems, please follow respective instructions found online.
+
 ## Possible Improvements
 
 Possible improvements for this project include:
