@@ -20,6 +20,13 @@ The technologies used include:
 
 1. C# for Visual Studio Code (powered by OmniSharp) v1.23.8
 
+## Solution
+
+The following solution was implemented:
+
+1.	Created a design that is user interactive in the sense that the program asks the user to input the number of bands on their resistor and the colour code of each band (following the legend displayed). It then displays the resistance and tolerance, and in the case of a 6 band resistor, also displays the temperature coefficient.
+2.	Developed strong error handling structures that not only check for input error, but also validate that the input is logical (such as a particular band colour not making sense).
+
 ## Launch
 
 In order to run this program through the MacOS terminal, run the following commands:
